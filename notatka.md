@@ -52,7 +52,7 @@ w modelu tym parametr H(hue barwa) okresla kolor paremt s(saturation-nasycenie) 
 
 
 
-**ciecie i wstawianie tla na strone internetowa**
+**CIECIE I WSTAWIANIE TLA NA STRONE INTERNETOWA**
 
 
 
